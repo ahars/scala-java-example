@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass=com.ahars.hello.HelloWorld
+mvn clean install exec:java -Dexec.mainClass=com.ahars.hello.HelloWorld
